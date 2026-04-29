@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Seung Yeji
+# 👋 SEUNG YEJI
 
 ### 💻 Frontend Developer
 
